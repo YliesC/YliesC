@@ -22,6 +22,7 @@
     <img alt="rabbitmq" width="32px" src="https://raw.githubusercontent.com/YliesC/YliesC/master/assets/rabbitmq.svg" />
     <img alt="Bash" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/240px-Bash_Logo_Colored.svg.png" />
     <img alt="AWS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+    <img alt="serverless" width="32px" src="https://raw.githubusercontent.com/YliesC/YliesC/master/assets/serverless-icon.svg" />
     <img alt="C" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
     <img alt="MySQL" width="32px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
     <img alt="Git" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
